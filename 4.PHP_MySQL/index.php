@@ -148,8 +148,9 @@ $expirience = [
             </h6>
             <p><?php echo $expirience[$i]['description'];?></p>
             <hr>
-            <?php endfor; ?>
           </div>
+            <?php endfor; ?>
+          
  
         <div class="w3-container w3-card w3-white">
           <h2 class="w3-text-grey w3-padding-16"><i
